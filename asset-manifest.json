@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-business-card/static/css/main.a8fb30f7.css",
+    "main.js": "/react-business-card/static/js/main.78cb4cf8.js",
+    "static/media/profile-pic.jpg": "/react-business-card/static/media/profile-pic.713d7495e8731f51a997.jpg",
+    "static/media/ig.svg": "/react-business-card/static/media/ig.b65fd1ea807b0dd362e3fc5606fde418.svg",
+    "static/media/github.svg": "/react-business-card/static/media/github.a6e245a37f0e87cef1e51c9c7e94ea47.svg",
+    "static/media/twitter.svg": "/react-business-card/static/media/twitter.5cb28d333b8d6744d0d9178c7ad1972d.svg",
+    "index.html": "/react-business-card/index.html",
+    "static/media/linkedin.svg": "/react-business-card/static/media/linkedin.f6c23309e78849945a3d9dce42769c2f.svg",
+    "static/media/fb.svg": "/react-business-card/static/media/fb.1c2e1e60a9fefe1f4cc327632f5ffc3b.svg",
+    "static/media/Icon.svg": "/react-business-card/static/media/Icon.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.a8fb30f7.css.map": "/react-business-card/static/css/main.a8fb30f7.css.map",
+    "main.78cb4cf8.js.map": "/react-business-card/static/js/main.78cb4cf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fb30f7.css",
+    "static/js/main.78cb4cf8.js"
+  ]
+}
